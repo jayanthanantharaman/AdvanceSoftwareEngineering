@@ -10,10 +10,10 @@ Sample pdfs are placed in the folder testpdfs.
 The program works only if the pdfs are in the same format as sample pdfs placed in the testpdfs folder 
 
 
-Reviews - Contains review comments for various documents submitted by other team in the course.
-pdfrenamer-v1.0 - Source code in Java
-extractAuthorIssue.jar - Executable to run the program
-testpdfs - Contains template pdfs which the program is designed for
+<li>Reviews - Contains review comments for various documents submitted by other team in the course</li>
+<li>pdfrenamer-v1.0 - Source code in Java</li>
+<li>extractAuthorIssue.jar - Executable to run the program</li>
+<li>testpdfs - Contains template pdfs which the program is designed</li>
 
 
 
