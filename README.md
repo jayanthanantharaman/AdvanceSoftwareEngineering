@@ -3,8 +3,8 @@ The repository contains documents related to Advance Software Engineering submis
 
 pdfrenamer is a program which extracts below mentioned information from pdf files
 
-Authors: One-author-name consists of [First Middle* Last], list of author names is comma separated. Ex: Umme Ayda Mannan, Iftekhar Ahmed, Rana Abdullah M Almurshed, Danny Dig, Carlos Jensen. This example has 5 authors.
-Issue: Usually a number. Some times a name. Ex: "3" "March"
+<li>Authors: One-author-name consists of [First Middle* Last], list of author names is comma separated. Ex: Umme Ayda Mannan, Iftekhar Ahmed, Rana Abdullah M Almurshed, Danny Dig, Carlos Jensen. This example has 5 authors.</li>
+<li>Issue: Usually a number. Some times a name. Ex: "3" "March" </li>
 
 Sample pdfs are placed in the folder testpdfs. 
 The program works only if the pdfs are in the same format as sample pdfs placed in the testpdfs folder 
