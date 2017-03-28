@@ -18,4 +18,6 @@ The program works only if the pdfs are in the same format as sample pdfs placed 
 
 
 Command to Run:
+
+
 java -jar extractAuthorIssue.jar <path to folder containing pdfs> (eg: /users/Courses/Advance_Software_Engineering/workspace/testpdfs)
