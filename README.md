@@ -17,6 +17,7 @@ The program works only if the pdfs are in the same format as sample pdfs placed 
 
 
 
+
 Command to Run:
 
 
